@@ -1,19 +1,7 @@
 {
-  "name": "Custom Paperback Extensions",
+  "name": "ADDRIDD Repo",
   "version": 1,
   "extensions": [
-    {
-      "id": "manhuafastnet",
-      "name": "ManhuaFast (NET)",
-      "author": "ADDRIDD",
-      "tags": [
-        "manga",
-        "manhua"
-      ],
-      "websiteBaseURL": "https://manhuafast.net",
-      "icon": "extensions/manhuafastnet/icon.png",
-      "version": 1,
-      "filename": "extensions/manhuafastnet/source.js"
-    }
+    "extensions/manhuafastnet"
   ]
 }
