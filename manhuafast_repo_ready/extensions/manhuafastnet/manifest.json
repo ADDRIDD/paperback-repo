@@ -1,0 +1,9 @@
+{
+  "id": "manhuafastnet",
+  "name": "ManhuaFast (NET)",
+  "author": "Generated",
+  "version": 1,
+  "websiteBaseURL": "https://manhuafast.net",
+  "description": "Mirror of ManhuaFast.net (no Cloudflare).",
+  "contentRating": "EVERYONE"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Custom Paperback Extensions",
+  "version": 1,
+  "sources": [
+    {
+      "id": "manhuafastnet",
+      "name": "ManhuaFast (NET)",
+      "author": "Generated",
+      "tags": [
+        "manga",
+        "manhua"
+      ],
+      "websiteBaseURL": "https://manhuafast.net",
+      "icon": "extensions/manhuafastnet/icon.png",
+      "version": 1,
+      "filename": "extensions/manhuafastnet/source.js"
+    }
+  ]
+}
