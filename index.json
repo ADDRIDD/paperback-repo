@@ -1,7 +1,7 @@
 {
   "name": "Custom Paperback Extensions",
   "version": 1,
-  "sources": [
+  "extensions": [
     {
       "id": "manhuafastnet",
       "name": "ManhuaFast (NET)",
